@@ -13,7 +13,13 @@
       "authorized_target": [], 
       "custom_code": { "enabled": false, "code": "" },
       "note": "Universal Master Key"
-    }
+    },
+    
+    "JEEVANOVERSEAS_COSTING": {
+  "expiry": "2028-03-04",
+  "authorized_target": ["costing.jeevanoverseas.com"],
+  "custom_code": { "enabled": false, "code": "" },
+  "note": "Costing Software QR "
   
   },
   "settings": {
