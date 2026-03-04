@@ -1,0 +1,85 @@
+{
+  "info": "MASTER-KEY LICENSE CONTROL PANEL",
+  "licenses": {
+    "MASTER-KEY": {
+      "expiry": "2030-12-31",
+      "authorized_target": ["fahadtech8.github.io","connect.thefahad.in","me.thefahad.in","erp.thefahad.in","thefahad.in","localhost","127.0.0.1","::1","192.168.0.1","192.168.1.1","192.168.1.100","10.0.0.1","10.0.0.2"],
+      "custom_code": { "enabled": false, "code": "<div style='background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);padding:30px;border-radius:25px;box-shadow:0 15px 35px rgba(0,0,0,0.5);text-align:center;'><div style='font-size:50px;margin-bottom:15px;'>🚫</div><h2 style='color:#fff;margin:0 0 10px;font-weight:700;letter-spacing:1px;'>LICENSE ISSUES BY SilentSudoX</h2><p style='color:#ccc;font-size:16px;margin-bottom:25px;'>Aapki website ka security license expire ho chuka hai ya unauthorized hai.</p><a href='https://wa.me/917081160639' style='display:inline-block;background:linear-gradient(135deg,#25D366 0%,#128C7E 100%);color:white;padding:14px 35px;text-decoration:none;border-radius:50px;font-weight:bold;font-size:15px;box-shadow:0 8px 20px rgba(37,211,102,0.3);'>Renew via WhatsAppFD</a></div>" },
+      "note": "Main Admin License"
+    },
+    "silentsudox": { 
+      "expiry": "2026-05-10", 
+      "authorized_target": ["silentsudox.github.io","silentsudox.in"], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "silentsudox Landing Page"
+    },
+    "bindasapp": { 
+      "expiry": "2027-02-16", 
+      "authorized_target": ["bindasapp.com"], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "bindasapp live cyber panel"
+    },
+    "deepakcarp": { 
+      "expiry": "2030-07-20", 
+      "authorized_target": [], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "Deepak Corporation Website"
+    },
+    "Hussnain": { 
+      "expiry": "2030-08-01", 
+      "authorized_target": ["smartweb.org"], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "hussnain.com website"
+    },
+    "NBIntl": { 
+      "expiry": "2030-09-10", 
+      "authorized_target": [], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "NB international"
+    },
+    "Brasage": { 
+      "expiry": "2026-10-01", 
+      "authorized_target": ["myportfolio.com"], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "brassag.net website"
+    },
+    "FAHADDIGITAL": { 
+      "expiry": "2030-11-20", 
+      "authorized_target": [], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "Client: Pakistan Ecom Store"
+    },
+    "VDAY": { 
+      "expiry": "2028-12-15", 
+      "authorized_target": ["officialfd.github.io"], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "V DAY 2026"
+    },
+    "BUSINESS-09": { 
+      "expiry": "2027-01-05", 
+      "authorized_target": ["biz.in"], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "Client: Indian Business Portal"
+    },
+    "MASTER-KEY-10": { 
+      "expiry": "2028-12-31", 
+      "authorized_target": [], 
+      "custom_code": { "enabled": false, "code": "" },
+      "note": "Universal Master Key"
+    }
+  },
+  "settings": {
+    "redirect_enabled": true,
+    "redirect_url": "https://silentsudox.github.io",
+    "analytics_id": "G-XXXXXXXXXX",
+    "redirect_delay_sec": 20
+  },
+
+  "title": "Security Status: Protected",
+
+  "msg_expired": "⛔ <b>LICENSE EXPIRED</b><br>Your website license has expired and access is temporarily restricted.<br>You will be redirected in <b><span id='countdown'>20</span> seconds</b>.<br><br><a href='https://silentsudox.github.io' style='display:inline-block;background:#0d6efd;color:#ffffff;padding:12px 26px;text-decoration:none;border-radius:50px;font-weight:600;box-shadow:0 4px 15px rgba(13,110,253,0.4);'>Go to Official Website</a>",
+
+  "msg_invalid": "⚠️ <b>INVALID LICENSE</b><br>The license key used for this website is invalid or unauthorized.",
+
+  "msg_domain_mismatch": "🚫 <b>DOMAIN NOT AUTHORIZED</b><br>This license is not registered for the current domain."
+}
