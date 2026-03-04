@@ -16,7 +16,7 @@
     },
     
     "JEEVANOVERSEAS_COSTING": {
-  "expiry": "2025-03-04",
+  "expiry": "2028-03-04",
   "authorized_target": ["costing.jeevanoverseas.com"],
   "custom_code": { "enabled": false, "code": "" },
   "note": "Costing Software QR "
