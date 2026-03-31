@@ -1,0 +1,13 @@
+{
+    "cfg": {
+        "X9A7K": {
+            "targets": [
+                "thefahad.in",
+                "erp.thefahad.in",
+                "*.thefahad.in",
+                "localhost"
+            ],
+            "expires": "2026-12-31"
+        }
+    }
+}
