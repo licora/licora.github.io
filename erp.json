@@ -4,6 +4,8 @@
             "targets": [
                 "thefahad.in",
                 "erp.thefahad.in",
+                "wccreation.com",
+                "erp.wccreation.com",
                 "*.thefahad.in",
                 "localhost"
             ],
