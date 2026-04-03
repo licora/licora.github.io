@@ -15,9 +15,9 @@
     "B7M2Q": {
       "name": "OLIVERMCINROY",
       "targets": [
-        "demo1.com",
-        "erp.demo1.com",
-        "*.demo1.com",
+        "olivermcinroy.com",
+        "erp.olivermcinroy.com",
+        "*.olivermcinroy.com",
         "localhost"
       ],
       "expires": "2026-11-30"
