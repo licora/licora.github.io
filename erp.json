@@ -1,15 +1,56 @@
 {
-    "cfg": {
-        "X9A7K": {
-            "targets": [
-                "thefahad.in",
-                "erp.thefahad.in",
-                "wccreation.com",
-                "erp.wccreation.com",
-                "*.thefahad.in",
-                "localhost"
-            ],
-            "expires": "2026-12-31"
-        }
+  "cfg": {
+    "X9A7K": {
+      "name": "Wazir Chand Creation ERP",
+      "targets": [
+        "thefahad.in",
+        "erp.thefahad.in",
+        "wccreation.com",
+        "erp.wccreation.com",
+        "*.thefahad.in",
+        "localhost"
+      ],
+      "expires": "2026-12-31"
+    },
+    "B7M2Q": {
+      "name": "OLIVERMCINROY",
+      "targets": [
+        "demo1.com",
+        "erp.demo1.com",
+        "*.demo1.com",
+        "localhost"
+      ],
+      "expires": "2026-11-30"
+    },
+    "P4L8Z": {
+      "name": "ClientSite ERP",
+      "targets": [
+        "clientsite.in",
+        "erp.clientsite.in",
+        "*.clientsite.in",
+        "127.0.0.1"
+      ],
+      "expires": "2027-01-15"
+    },
+    "T6R9X": {
+      "name": "MyBusiness App",
+      "targets": [
+        "mybusiness.com",
+        "app.mybusiness.com",
+        "*.mybusiness.com",
+        "localhost"
+      ],
+      "expires": "2026-10-10"
+    },
+    "K2D5W": {
+      "name": "StartupHub ERP",
+      "targets": [
+        "startuphub.in",
+        "erp.startuphub.in",
+        "*.startuphub.in",
+        "192.168.0.1"
+      ],
+      "expires": "2027-03-01"
     }
+  }
 }
