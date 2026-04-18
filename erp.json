@@ -23,12 +23,13 @@
       ],
       "expires": "2026-11-30"
     },
-    "P4L8Z": {
-      "name": "ClientSite ERP",
+    "BADETABUGSYD28": {
+      "name": "BADE TAU SOFTWARE ERP",
       "targets": [
-        "clientsite.in",
-        "erp.clientsite.in",
-        "*.clientsite.in",
+        "badetau.com",
+        "erp.badetau.com",
+        "*.badetau.com",
+        "badetau.local",
         "127.0.0.1"
       ],
       "expires": "2027-01-15"
