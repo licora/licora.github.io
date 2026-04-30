@@ -34,11 +34,11 @@
       ],
       "expires": "2027-01-15"
     },
-    "T6R9X": {
-      "name": "MyBusiness App",
+    "ATTENDANCET6R9X": {
+      "name": "Attendance",
       "targets": [
-        "mybusiness.com",
-        "app.mybusiness.com",
+        "sh.mbd.co.in",
+        "attendance.local",
         "*.mybusiness.com",
         "localhost"
       ],
