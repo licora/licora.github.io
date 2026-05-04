@@ -26,9 +26,9 @@
     "BADETABUGSYD28": {
       "name": "BADE TAU SOFTWARE ERP",
       "targets": [
-        "badetau.com",
-        "erp.badetau.com",
-        "*.badetau.com",
+        "badetau.mbd.co.in",
+        "badetau.mbd.co.in",
+        "*.mbd.co.in",
         "badetau.local",
         "127.0.0.1"
       ],
