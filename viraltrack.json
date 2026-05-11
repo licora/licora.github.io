@@ -2,6 +2,6 @@
   "version": "1.5.0",
   "versionCode": 2,
   "apkUrl": "https://sudox.in",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "message": "New version available. Please update now. By Fahad"
 }
