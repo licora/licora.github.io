@@ -1,6 +1,6 @@
 {
-  "version": "93.0.0",
-  "versionCode": 163,
+  "version": "1.0.0",
+  "versionCode": 1,
   "apkUrl": "https://github.com/licora/viraltrack/releases/latest/download/viraltrack.apk",
   "forceUpdate": false,
   "message": "New version available with bug fixes and improvements. By Fahad",
