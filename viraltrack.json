@@ -1,9 +1,10 @@
 {
-  "version": "1.4.0",
-  "versionCode":7,
+  "version": "1.5.0",
+  "versionCode": 3,
   "apkUrl": "https://viraltrack.sudox.in/viraktrack.apk",
   "forceUpdate": false,
-  "message": "New version available with layout improvements and bug fixes.",
+  "message": "New version available with bug fixes and improvements. By Fahad V1.5.0+3",
+  "shareText": "🚀 Boost Your Social Media with Viral Track! 📈 Download Now: https://bit.ly/viraltrackv8",
   "homeUrl": "https://viraltrack.sudox.in",
   "ordersUrl": "https://viraltrack.sudox.in/orders",
   "addFundsUrl": "https://viraltrack.sudox.in/addfunds",
