@@ -1,5 +1,4 @@
 {
-  "$schema": "https://opencode.ai/config.json",
   "model": "opencode/mimo-v2.5-free",
   "provider": {
     "opencode": {
@@ -7,7 +6,7 @@
       "api": "https://opencode.ai/zen/v1",
       "npm": "@ai-sdk/openai-compatible",
       "options": {
-        "apiKey": "APNI_GITHUB_TOKEN_YAHAN_DALEIN"
+        "apiKey": "sk-H2lk7X6bbGUenPndIEpSsJZyweReSuZhUfqAWrV7OcDiEkQST3GgKsWi3bFiDTHO"
       }
     }
   }
