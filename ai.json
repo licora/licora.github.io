@@ -6,7 +6,7 @@
       "api": "https://opencode.ai/zen/v1",
       "npm": "@ai-sdk/openai-compatible",
       "options": {
-        "apiKey": "sk-H2lk7X6bbGUenPndIEpSsJZyweReSuZhUfqAWrV7OcDiEkQST3GgKsWi3bFiDTHO....Fahad_ro"
+        "apiKey": "sk-H2lk7X6bbGUenPndIEpSsJZyweReSuZhUfqAWrV7OcDiEkQST3GgKsWi3bFiDTHO"
       }
     }
   }
