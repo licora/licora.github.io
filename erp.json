@@ -34,10 +34,11 @@
       ],
       "expires": "2029-01-15"
     },
+    
     "ATTENDANCET6R9X": {
       "name": "Attendance",
       "targets": [
-        *.mbd.co.in
+        "*.mbd.co.in"
         "sh.mbd.co.in",
         "attendance.local",
         "*.mybusiness.com",
@@ -52,6 +53,7 @@
         "dc.mbd.co.in",
         "deepakcorp.local",
         "localhost"
+        
       ],
       "expires": "2029-10-10"
     },
