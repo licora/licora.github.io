@@ -37,6 +37,7 @@
     "ATTENDANCET6R9X": {
       "name": "Attendance",
       "targets": [
+        *.mbd.co.in
         "sh.mbd.co.in",
         "attendance.local",
         "*.mybusiness.com",
