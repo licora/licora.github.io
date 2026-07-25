@@ -36,7 +36,7 @@
     },
     
     "ATTENDANCET6R9X": {
-      "name": "Attendance",
+      "name": "Attendance SH",
       "targets": [
         "*.mbd.co.in",
         "sh.mbd.co.in",
@@ -47,7 +47,7 @@
       "expires": "2029-10-10"
     },
 
-     "ATTENDAFHGSSJHJSGJ": {
+     "ATTENDANCET6R9X": {
       "name": "Attendance Deepak ",
       "targets": [
         "dc.mbd.co.in",
