@@ -41,7 +41,7 @@
         "*.mbd.co.in",
         "sh.mbd.co.in",
         "attendance.local",
-        "*.mybusiness.com",
+        "sh.local",
         "localhost"
       ],
       "expires": "2029-10-10"
