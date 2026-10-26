@@ -42,7 +42,8 @@
         "sh.mbd.co.in",
         "attendance.local",
         "sh.local",
-        "localhost"
+        "localhost",
+         "hrm.local"
       ],
       "expires": "2029-10-10"
     },
